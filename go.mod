@@ -1,4 +1,4 @@
-module github.com/sttp/goapi
+module github.com/observabuddy/goapi
 
 go 1.18
 
